@@ -44,7 +44,7 @@
     export $(grep -v '^#' .env | xargs)
 ```
 
-## 5. Use the following commands to check, build and run the proyect:
+## 5. Use the following commands to verify, compile and run the project:
 ```
     cargo check
     cargo build
@@ -54,4 +54,4 @@
 
 To create a cool text for README.md files, visit: https://fsymbols.com/generators/carty/
 
-Visit -> https://doc.rust-lang.org/book/
+Visit ---> https://doc.rust-lang.org/book/
